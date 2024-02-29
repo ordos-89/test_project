@@ -1,3 +1,6 @@
++line1
++line2
+
 hello world!
 
-first change of the file i've added
+second change of the file i've done
